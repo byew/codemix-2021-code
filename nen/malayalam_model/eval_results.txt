@@ -1,0 +1,6 @@
+f1 : 0.6732
+recall : 0.6637
+precision : 0.6857
+accuracy : 0.7134
+weight_f1 : 0.7112
+eval_loss : 0.3362
